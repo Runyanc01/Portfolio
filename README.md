@@ -1,0 +1,1 @@
+This repository contains some of my best projects to date, showcasing my diverse abilities in software development. I have created a portfolio website that contains links to my web development projects, and there are a few Python projects in the main of the repository.
