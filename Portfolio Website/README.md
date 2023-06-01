@@ -1,0 +1,1 @@
+This is my portfolio website I created using HTML, CSS, and Javascript that has links to my other web design projects. It also contains some biographical info on me, and links to my Linkedin and this repository.
