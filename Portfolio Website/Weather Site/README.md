@@ -1,1 +1,0 @@
-This is a weather web appI created using HTML, CSS, and JavaScript. It uses JavaScript to access a weather API and retrieve some information about a user-entered location, and displays it in a clean card.
